@@ -1,10 +1,12 @@
 # Vortex Mass in Superﬂuid Fermi Gases along the BEC–BCS Crossover
 
-This code generates the plots given in the manuscript
+This code generates the plots given in the manuscripts
 
-> [1] Lucas Levrouw, Hiromitsu Takeuchi and Jacques Tempere, Vortex Mass in Superﬂuid Fermi Gases along the BEC–BCS Crossover,
+> [1] Lucas Levrouw, Hiromitsu Takeuchi and Jacques Tempere,
+> Vortex Mass in Superﬂuid Fermi Gases along the BEC–BCS Crossover,
 > Phys. Rev. A 112, 043310, 14 October 2025,
-[doi:10.1103/p24p-k59v](https://doi.org/10.1103/p24p-k59v), [arxiv:2505.12590](https://arxiv.org/pdf/2505.12590).
+> [doi:10.1103/p24p-k59v](https://doi.org/10.1103/p24p-k59v),
+> [arxiv:2505.12590](https://arxiv.org/abs/2505.12590).
 
 <details>
   <summary>Abstract</summary>
@@ -24,8 +26,16 @@ expected. This is particularly relevant considering recent advances in experimen
 place the observation of vortex mass in superﬂuid Fermi gases within reach.
 </details>
 
-> [2] Lucas Levrouw, Hiromitsu Takeuchi and Jacques Tempere, Effect of Population Imbalance on Vortex Mass in Superfluid Fermi Gases,
-> https://arxiv.org/abs/2512.22099
+> [2] Lucas Levrouw, Hiromitsu Takeuchi and Jacques Tempere,
+> Effect of Population Imbalance on Vortex Mass in Superfluid Fermi Gases,
+> J Low Temp Phys 222, 83 (2026),
+> [doi:10.1007/s10909-026-03418-3](https://doi.org/10.1007/s10909-026-03418-3)
+> [arxiv:2512.22099](https://arxiv.org/abs/2512.22099)
+
+<details>
+  <summary>Abstract</summary>
+One of the fundamental parameters associated with quantized vortices in superfluids is the vortex mass, which is the inertia of a vortex. As of yet, this mass has not been observed in a superfluid. However, ultracold Fermi gases provide a promising platform in which recently much experimental progress was made, offering tunability of the interaction as well as control on the single-vortex level. Not only can the scattering length be freely tuned, allowing exploration of the BEC-BCS crossover, but also an imbalance between different pseudospin states can be introduced. We study the effect of introducing this imbalance on the vortex mass, using a method based on an effective field theory for superfluid Fermi gases. We find that it is crucial to consider the imbalance in conjunction with nonzero temperatures; at some temperatures, the vortex mass is significantly enhanced while at others, the vortex mass is diminished. This pronounced temperature dependence highlights the need for careful tuning of experimental conditions and identifies favorable parameter regimes in which the vortex mass is likely to be observed.
+</details>
 
 ## Installation instructions
 
